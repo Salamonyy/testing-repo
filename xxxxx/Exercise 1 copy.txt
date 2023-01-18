@@ -1,0 +1,11 @@
+Exercise 1
+Create a program enter name and age. Print out a message that tells how many years they have to be 100 years old.
+
+Exercise 2
+1. The following is correct:
+var nums = List<num>(2);
+nums.add(1);
+nums.add(2);
+nums.add(3);
+a. Correct
+b. Incorrect
